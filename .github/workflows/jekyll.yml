@@ -3,24 +3,32 @@ name: Build and Deploy Jekyll site
 on:
   push:
     branches:
-      - master  # 或 main，看你仓库的默认分支是哪一个
+      - master  # 或 main，根据你的默认分支修改
   workflow_dispatch:
+
+permissions:
+  contents: write  # 🔹 允许 GitHub Actions 写入仓库内容
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v3
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 3.1
+
       - name: Install dependencies
         run: |
           gem install bundler
           bundle install
+
       - name: Build site
         run: bundle exec jekyll build
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
