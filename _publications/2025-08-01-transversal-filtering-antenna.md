@@ -11,10 +11,8 @@ citation: 'J. Qian <i>et al.</i>, "Synthesis and Design of Transversal Filtering
 ---
 
 <p align="center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/publications/tfa-theory.png" alt="Transversal Filtering Antenna Theory" width="600">
+  <img src="https://eejfqian.github.io/images/publications/tfa-theory.png" alt="Transversal Filtering Antenna Theory" width="600">
 </p>
-
-
 
 This paper proposes the **first systematic synthesis framework** for *transversal filtering antennas (TFAs)*, 
 bridging classical coupling-matrix filter synthesis with radiating structures.  
