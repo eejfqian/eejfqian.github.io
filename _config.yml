@@ -24,6 +24,7 @@ repository: "eejfqian/eejfqian.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
+  avatar_size: 260
   name             : "Jianfeng Qian"
   pronouns         : # example: "she/her"  
   bio              : "Reseach Fellow, University of Birmingham"
