@@ -1,0 +1,5 @@
+{% if include.image_path %}
+<p align="center">
+  <img src="{{ include.image_path }}" alt="{{ include.alt | default: 'Figure' }}" width="{{ include.width | default: '600' }}">
+</p>
+{% endif %}
