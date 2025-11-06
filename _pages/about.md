@@ -12,7 +12,7 @@ My research focuses on **FR3-band (7–24 GHz) hardware systems for 6G communica
 
 I received my **PhD in Electronic Engineering** from the **University of Kent**, supervised by **Prof. Steven Gao** and **Dr. Hanyang Wang**.  
 Before that, I obtained my **M.E.** from **South China University of Technology (2019)** and **B.S.** from **Hefei University of Technology (2016)**.  
-I also worked as an **SI/PI Engineer** at **HiSilicon (Huawei)** in Shanghai (2019–2020), and part-time Antenna/RF Engineer in Novocomms Ltd.
+I also worked as an **SI/PI Engineer** at **HiSilicon (Huawei)** in Shenzhen (2019–2020), and part-time **Antenna/RF Engineer** in **Novocomms Ltd**.
 
 My research interests include:  
 - Filters, Filtering Networks, and Filtering Antennas. 
