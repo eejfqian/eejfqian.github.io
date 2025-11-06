@@ -7,9 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am Dr. Jianfeng Qian, a Research Fellow at the **Emerging Device Technology Laboratory, University of Birmingham (UK)**, working with **Prof. Yi Wang**.  
+My research focuses on **FR3-band (7–24 GHz) hardware systems for 6G communications**, including **modular subarray architectures, high-selectivity filtering antennas, and advanced RF packaging**.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I received my **PhD in Electronic Engineering** from the **University of Kent**, supervised by **Prof. Steven Gao** and **Dr. Hanyang Wang**.  
+Before that, I obtained my **M.E.** from **South China University of Technology (2019)** and **B.S.** from **Hefei University of Technology (2016)**.  
+I also worked as an **SI/PI Engineer** at **HiSilicon (Huawei)** in Shanghai (2019–2020).
+
+My research interests include:  
+- Filtering and self-decoupling antennas for spectrum-compliant massive MIMO  
+- Reconfigurable FR3-band subarrays and high-frequency RF packaging  
+- 3D-printed and liquid-metal-integrated antenna structures  
+- Thermal–electromagnetic co-design for reconfigurable front-ends  
 
 A data-driven personal website
 ======
