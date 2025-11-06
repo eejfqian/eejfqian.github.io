@@ -27,10 +27,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Birmingham"
+  employer         : "University of Birmingham"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "j.qian.2@bham.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
-  LinkedIn           : "https://www.linkedin.com/in/jianfeng-qian-12432b235/"
+  LinkedIn           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/jianfeng-qian-12432b235/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
