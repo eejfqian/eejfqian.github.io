@@ -3,7 +3,8 @@ title: "PhD Research: Filtering Antenna Technology for Compact Terminal Systems"
 collection: projects
 permalink: /projects/phd-filtering-antenna
 excerpt: "Doctoral research on applying filtering antenna concepts to terminal antenna systems, focusing on in-band selectivity and inter-antenna decoupling."
-date: Oct. 2020 - Mar. 2024
+start_date: Oct. 2020
+end_date: Mar. 2024
 venue: "University of Kent, United Kingdom"
 ---
 
