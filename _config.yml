@@ -24,9 +24,9 @@ repository: "eejfqian/eejfqian.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jianfeng Qian"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Reseach Fellow, University of Birmingham"
   location         : "UK"
   employer         : "University of Birmingham"
   uri              : # URL
