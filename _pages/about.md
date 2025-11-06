@@ -27,5 +27,4 @@ My works have also been presented at major conferences.
 ---
 
 🏫 **Institution:** University of Birmingham, School of Electrical, Electronic and Systems Engineering  
-🌐 **Google Scholar:** [https://scholar.google.com/citations?user=S7m-vMEAAAAJ&hl=en) 
 
