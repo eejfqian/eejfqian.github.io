@@ -27,7 +27,7 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Birmingham"
+  location         : "UK"
   employer         : "University of Birmingham"
   uri              : # URL
   email            : "j.qian.2@bham.ac.uk" 
@@ -38,9 +38,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=S7m-vMEAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9634-7065"
   semantic         : # URL
-  LinkedIn           : # URL
+  #LinkedIn           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jianfeng-qian-12432b235/"
+  linkedin         : 'https://www.linkedin.com/in/jianfeng-qian-12432b235/'
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
