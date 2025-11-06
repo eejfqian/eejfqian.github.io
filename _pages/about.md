@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am Dr. Jianfeng Qian, a Research Fellow at the **Emerging Device Technology Laboratory, University of Birmingham (UK)**, working with **Prof. Yi Wang**.  
-My research focuses on **FR3-band (7–24 GHz) hardware systems for 6G communications**, including **modular subarray architectures, high-selectivity filtering antennas, and advanced RF packaging**.
+My research focuses on **FR3-band (7–24 GHz) hardware systems for 6G communications**, including **novel phased array architectures, high-selectivity filtering antennas, antenna slef-interference cancellation, and advanced RF packaging**.
 
 I received my **PhD in Electronic Engineering** from the **University of Kent**, supervised by **Prof. Steven Gao** and **Dr. Hanyang Wang**.  
 Before that, I obtained my **M.E.** from **South China University of Technology (2019)** and **B.S.** from **Hefei University of Technology (2016)**.  
