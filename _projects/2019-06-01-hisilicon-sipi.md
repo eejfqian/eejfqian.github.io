@@ -3,7 +3,7 @@ title: "Signal and Power Integrity Optimization for 77 GHz Automotive Radar"
 collection: projects
 permalink: /projects/hisilicon-sipi
 excerpt: "Industrial R&D experience at HiSilicon (2019–2020), focusing on SI/PI design and optimization in automotive radar systems."
-date: 2019-06-01
+date: Jun. 2019-Oct.2020
 venue: "HiSilicon Technologies Co., Ltd."
 ---
 
