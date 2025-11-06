@@ -11,7 +11,7 @@ citation: 'J. Qian <i>et al.</i>, "Synthesis and Design of Transversal Filtering
 ---
 
 <p align="center">
-  <img src="/images/publications/tfa.png" width="600" alt="Transversal Filtering Antenna Overview">
+  <img src="/images/publications/tfa-theory.png" width="600" alt="Transversal Filtering Antenna Overview">
 </p>
 
 
