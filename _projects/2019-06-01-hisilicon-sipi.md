@@ -14,5 +14,4 @@ This project involved **signal and power integrity optimization** for a **77 GHz
 Key contributions included:
 - Simulation and mitigation of high-frequency crosstalk in multilayer radar PCBs.  
 - Power distribution network (PDN) analysis and decoupling network optimization.  
-- Integration of electromagnetic–thermal co-simulation for radar transceiver modules.  
 - Delivered a verified hardware design meeting stringent EMI and reliability requirements.
