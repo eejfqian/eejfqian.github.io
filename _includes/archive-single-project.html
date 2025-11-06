@@ -43,11 +43,21 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif post.collection == 'projects' and post.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Start date:</strong> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
-        {% elsif post.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
+      {% if post.collection == 'projects' and post.start_date %}
+  <p class="page__date">
+    <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Duration:</strong>
+    {{ post.start_date | date: "%b %Y" }}
+    {% if post.end_date %}
+      – {% if post.end_date == "present" %}Present{% else %}{{ post.end_date | date: "%b %Y" }}{% endif %}
     {% endif %}
+  </p>
+{% elsif post.date %}
+  <p class="page__date">
+    <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong>
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+  </p>
+{% endif %}
+
 
 
     {% if post.excerpt and site.read_more != 'enabled' %}
