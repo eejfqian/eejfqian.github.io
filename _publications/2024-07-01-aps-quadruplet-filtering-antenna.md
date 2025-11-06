@@ -1,7 +1,7 @@
 ---
 title: "A Cascaded Quadruplet Filtering Antenna"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-aps-quadruplet-filtering-antenna
 excerpt: 'Presents a cascaded quadruplet filtering antenna achieving compact structure and sharp out-of-band rejection, reported at APS/INC/USNC-URSI 2024.'
 date: 2024-07-01
