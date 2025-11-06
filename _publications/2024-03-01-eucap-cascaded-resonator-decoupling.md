@@ -1,7 +1,7 @@
 ---
 title: "A Cascaded Resonator Decoupling Network for Two Filtering Antennas with Adjacent Operating Bands"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-eucap-cascaded-resonator-decoupling
 excerpt: 'Proposes a cascaded resonator decoupling network enabling strong isolation between filtering antennas operating in adjacent bands, validated through EuCAP 2024 measurements.'
 date: 2024-03-01
