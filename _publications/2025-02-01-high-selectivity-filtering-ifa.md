@@ -10,11 +10,12 @@ paperurl: 'https://ieeexplore.ieee.org/document/10914013'
 citation: 'J. Qian. (2025). &quot;High-Selectivity Compact Wideband Transversal Filtering Inverted-F Antennas for Out-of-Band Decoupling in Terminal Applications.&quot; <i>IEEE Transactions on Antennas and Propagation</i>. doi:10.1109/TAP.2025.10914013.'
 ---
 
-The proposed transversal filtering IFA achieves high in-band selectivity and strong out-of-band suppression through transversal-mode interference.  
-It demonstrates inherent port decoupling without additional circuits, offering a compact and efficient solution for terminal and array applications.
+
 ![Transversal Filtering Terminal Antenna](/images/publications/terminal FTA.png)
 
+The proposed transversal filtering IFA achieves high in-band selectivity and strong out-of-band suppression through transversal-mode interference.  
 This paper proposes further extends the transversal filtering antenna concept to quarter-wavelength antenan designs. By using TFA structures in terminal antenna designs, the out-of-band isolation can be effectively suppressed. 
+It demonstrates inherent port decoupling without additional circuits, offering a compact and efficient solution for terminal and array applications.
 
 **Key Contributions**
 - Extend the theoretical foundation for transversal filtering antennas.  
