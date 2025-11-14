@@ -21,6 +21,11 @@ author_profile: true
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
+{% if category[0] == "article" %}
+<p style="margin-top:-10px; color:#666;">Click the title for details.</p>
+{% endif %}
+
+<hr />
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
