@@ -14,8 +14,9 @@ citation: 'J. Qian. (2025). &quot;High-Selectivity Compact Wideband Transversal 
 ![high-selectivity-filtering-ifa](/images/publications/terminal-tfa.png)
 
 The proposed transversal filtering IFA achieves high in-band selectivity and strong out-of-band suppression through transversal-mode interference.  
-This paper proposes further extends the transversal filtering antenna concept to quarter-wavelength antenan designs. By using TFA structures in terminal antenna designs, the out-of-band isolation can be effectively suppressed. 
-It demonstrates inherent port decoupling without additional circuits, offering a compact and efficient solution for terminal and array applications.
+This paper proposes further extends the transversal filtering antenna concept to quarter-wavelength antenan designs. By using TFA structures in terminal antenna designs, the out-of-band isolation can be effectively suppressed between two close-band antennas, enabling smaller form factor of user devices. 
+It demonstrates inherent port decoupling without additional circuits, offering a compact and efficient solution for terminal applications.
+
 
 **Key Contributions**
 - Extend the theoretical foundation for transversal filtering antennas.  
