@@ -15,6 +15,7 @@ citation: 'J. Qian <i>et al.</i>, "A Novel Low-Cost H-Plane Decoupling Technique
 
 This paper introduces an **H-plane electric–magnetic coupling cancellation** approach offering a simple and scalable in-band decoupling method.  
 It achieves high isolation through intrinsic field interactions, providing a low-cost solution for compact arrays in multi-standard wireless systems.  
+This concept is widely used in filter designs, Now we apply it to antenna decoupling. You will find some interesting results in this paper.
 *Recognized as a popular article in 2024.*
 
 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10474287)
