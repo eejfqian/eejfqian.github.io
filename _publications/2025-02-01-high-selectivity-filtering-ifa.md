@@ -18,8 +18,6 @@ This paper proposes further extends the transversal filtering antenna concept to
 
 **You can place different terminal antennas in a smaller space without strong mutual interference by using this technique.**
 
-It demonstrates inherent port decoupling without additional circuits, offering a compact and efficient solution for terminal applications.
-
 
 **Key Contributions**
 - Extend the theoretical foundation for transversal filtering antennas.  
