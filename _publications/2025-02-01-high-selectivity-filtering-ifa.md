@@ -22,6 +22,6 @@ This paper proposes further extends the transversal filtering antenna concept to
 **Key Contributions**
 - Extend the theoretical foundation for transversal filtering antennas.  
 - Developed synthesis procedures for coupling-elements TFA with quarter-wavelength elements.  
-- Verified the theory through full-wave simulation and measurement, forming a **closed-loop validation**.  
+- This technique can increase the antenna bandwidth and frequency selectivity. 
 
 [View on IEEE Xplore](https://ieeexplore.ieee.org/document/10914013)
