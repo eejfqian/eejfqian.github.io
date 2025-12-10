@@ -15,11 +15,11 @@ Before that, I obtained my **M.E.** from **South China University of Technology 
 I also worked as an **SI/PI Engineer** at **HiSilicon (Huawei)** in Shenzhen (2019–2020), and part-time **Antenna/RF Engineer** in **Novocomms Ltd**.
 
 My research interests include:  
-- Filters, Filtering Networks, and Filtering Antennas. 
-- Phased Arrays.
-- Antenna Decoupling.
-- Antenna Integration.
-- High-Frequency Interconnections.
+- **Filters, Filtering Networks, and Filtering Antennas.** 
+- **Phased Arrays.**
+- **Antenna Decoupling.**
+- **Antenna Integration.**
+- **High-Frequency Interconnections.**
 
 I am also very interested in high-speed circuti design, 3D printed devices, and Antenna-in-Package. I have published **10 IEEE Trans**, including **9 first-author IEEE Transactions on Antennas and Propagation** papers, several of which ranked among the *Most Read* in TAP.  
 My works have also been presented at major conferences.
